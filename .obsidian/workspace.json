@@ -42,9 +42,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "6d52f641145210b1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "4 - List Comprehension.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -110,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "3 - Set 2.md",
+                "file": "4 - List Comprehension.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "3 - Set 2.md",
+                "file": "4 - List Comprehension.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "3 - Set 2.md"
+                "file": "4 - List Comprehension.md"
               }
             }
           }
@@ -171,12 +183,13 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "68e84a5ef5c9efd5",
+  "active": "6d52f641145210b1",
   "lastOpenFiles": [
+    "3 - Set 2.md",
+    "4 - List Comprehension.md",
     "Captura de pantalla 2024-03-11 a la(s) 6.15.09 p.m..png",
     "Captura de pantalla 2024-03-11 a la(s) 6.14.39 p.m..png",
     "2 - CRUD Set.md",
-    "3 - Set 2.md",
     "1 - Sets.md"
   ]
 }
